@@ -1,0 +1,26 @@
+{
+  "name": "splider",
+  "version": "1.0.0",
+  "description": "node 豆瓣首页爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AnDongCai/douban_splider.git"
+  },
+  "author": "caiandong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnDongCai/douban_splider/issues"
+  },
+  "homepage": "https://github.com/AnDongCai/douban_splider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
